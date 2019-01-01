@@ -1,5 +1,5 @@
 //Name: Adrien Philardeau-Planche
-//ID: 260835598
+
 public class ExamGrading {
 
 	public static void main(String[] args) {  //can use main method to use the methods below; assignment does not specify to put anything in the main method
